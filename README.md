@@ -1,5 +1,4 @@
-# To-Do-Items-django-
-This web application in developed by django python framework, it is fully authenticated. By using this application we can easy manage and complete our work within a time
+# TodoApp
 
 ## Registeration Page
 ![image](https://user-images.githubusercontent.com/93641901/166315897-a72bb2f7-fd2a-489d-ac34-d8cc13645072.png)
